@@ -1,150 +1,205 @@
-
-<!-- HERO SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Saikat%20Ghosh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Specialist;Next.js+Engineer;UI+Focused+Developer;Clean+Code+Builder" />
-
-</div>
-
----
-
-## 🧠 Developer Identity
-
-Frontend Developer from Bangladesh focused on building **fast, scalable and visually clean web applications** using modern JavaScript ecosystems.
-
-I specialize in:
-- React.js & Next.js
-- TypeScript & JavaScript (ES6+)
-- Tailwind CSS & modern UI systems
-- Redux Toolkit & API integration
-
-I also understand backend basics (Node.js, Express.js, Laravel, MongoDB, MySQL) which helps me build better full system thinking.
-
----
-
-## ⚡ What I Build
-
-- 🛒 E-commerce platforms (frontend + admin UI)
-- 📊 Dashboard systems (analytics + UI control panels)
-- 📱 Responsive mobile-first web apps
-- 🔗 API-driven dynamic applications
-- 🎯 Component-based scalable frontend systems
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### ⚡ Core Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux" />
-
-### 🎨 UI Engineering
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css" />
-
-### ⚙️ Backend Awareness
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-
-### 🧠 Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saikatghosh3&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon line" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatghosh3&layout=compact&theme=github_dark&hide_border=true" />
+<table>
+<tr>
+<td align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%9A%A1-WELCOME_TO_MY_UNIVERSE-00F5A0?style=for-the-badge&labelColor=0d1117" alt="welcome" />
+
+<h1 align="center"> SAIKAT GHOSH </h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F5A0&background=0D1117FF&center=true&vCenter=true&width=800&height=70&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+pixel-perfect+UI;Clean+code.+Clean+design.+Clean+experience." alt="Typing animation" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Frontend-Developer-00F5A0?style=for-the-badge&labelColor=0d1117" alt="role" />
+<img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" alt="react" />
+<img src="https://img.shields.io/badge/Next.js-Engineer-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="nextjs" />
+<img src="https://img.shields.io/badge/Based_in-Bangladesh-7B2FF7?style=for-the-badge&labelColor=0d1117" alt="location" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=saikatghosh3&label=Profile%20Views&color=7B2FF7&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/saikatghosh3?label=Followers&style=for-the-badge&logo=github&color=00D9F5&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00F5A0?style=for-the-badge&labelColor=0d1117" alt="status" />
+
+<br/><br/>
+
+<sub>🚀 Building fast &nbsp;•&nbsp; 🎨 Designing clean &nbsp;•&nbsp; 💡 Shipping smart</sub>
+
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon line" />
 
 </div>
 
 ---
 
-## 🔥 Live Activity Flow
+## 🧠 &nbsp;About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Frontend Developer from **Bangladesh 🇧🇩** focused on building **fast, scalable and visually clean** web applications using the modern JavaScript ecosystem.
+
+```js
+const saikat = {
+  role: "Frontend Developer",
+  stack: ["React", "Next.js", "TypeScript", "Tailwind"],
+  state: "Redux Toolkit",
+  backendAwareness: ["Node.js", "Express", "Laravel"],
+  databases: ["MongoDB", "MySQL", "Firebase"],
+  mindset: "Ship fast. Keep it clean. Make it feel good.",
+};
+```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github.com/saikatghosh3.png" width="180" alt="Saikat Ghosh" />
+
+<br/>
+
+**Saikat Ghosh**
+
+*UI-Focused Frontend Engineer*
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ &nbsp;What I Build
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saikatghosh3&theme=github-compact&hide_border=true" />
+| 🛒 **E-Commerce** | 📊 **Dashboards** | 📱 **Responsive Apps** |
+|:---:|:---:|:---:|
+| Storefront + Admin UI | Analytics & control panels | Mobile-first experiences |
+| 🔗 **API-Driven Apps** | 🎯 **Component Systems** | 💼 **Business Sites** |
+| Dynamic data-rich UIs | Scalable, reusable architecture | Portfolio & company websites |
 
 </div>
 
-
 ---
 
-## 🏆 Achievements
+## 🛠️ &nbsp;Tech Arsenal
 
 <div align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=saikatghosh3&column=4" />
+
+**⚡ Core Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux&theme=dark&perline=5" alt="Core Frontend" />
+
+**🎨 UI Engineering**
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css&theme=dark&perline=4" alt="UI Engineering" />
+
+**⚙️ Backend Awareness**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel&theme=dark&perline=3" alt="Backend" />
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=3" alt="Databases" />
+
+**🧰 Tools & Deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&theme=dark&perline=7" alt="Tools" />
+
 </div>
 
 ---
 
-## 📈 Current Focus
+## 📊 &nbsp;GitHub Stats
 
-- Advanced React patterns & architecture
-- Next.js performance optimization
-- Redux Toolkit scaling
-- API integration mastery
-- Clean code & reusable system design
+<div align="center">
 
----
+<img src="https://img.shields.io/github/followers/saikatghosh3?label=Followers&style=for-the-badge&logo=github&color=00F5A0&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/saikatghosh3?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=00D9F5&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/github/search/saikatghosh3/saikatghosh3?label=Repos&style=for-the-badge&color=7B2FF7&labelColor=0d1117" alt="Repos" />
+<img src="https://img.shields.io/github/commit-activity/y/saikatghosh3/saikatghosh3?label=Commits%20This%20Year&style=for-the-badge&color=00F5A0&labelColor=0d1117" alt="Commits" />
 
-## 💼 Featured Projects
-
-- 🛒 E-Commerce Platform (React + Admin Panel)
-- 🏥 Healthcare Management System
-- ✈️ Travel Booking UI
-- 💼 Business Portfolio Websites
-- 👨‍💻 Personal Portfolio Website
-
-🔗 Live Portfolio:  
-https://saikat-ghosh-portfolio.vercel.app/
+</div>
 
 ---
 
-## 📬 Connect With Me
+## 📈 &nbsp;Currently Leveling Up
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced_React_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js_Performance-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Redux_Toolkit_Scaling-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/TypeScript_Mastery-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_Design_Systems-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+
+</div>
+
+---
+
+## 💼 &nbsp;Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| 🛒 **E-Commerce Platform** | Full storefront with Admin Panel | `React` `Redux` `Tailwind` |
+| 🏥 **Healthcare Management** | Patient & appointment system | `React` `API` `Tailwind` |
+| ✈️ **Travel Booking UI** | Modern booking experience | `Next.js` `TypeScript` |
+| 💼 **Business Websites** | Portfolio & company sites | `Next.js` `Tailwind` |
+| 👨‍💻 **Personal Portfolio** | My developer showcase | `Next.js` `Vercel` |
+
+<br/>
+
+<a href="https://saikat-ghosh-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PORTFOLIO-00F5A0?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" alt="Live Portfolio" />
+</a>
+
+</div>
+
+---
+
+## 📬 &nbsp;Let's Connect
 
 <div align="center">
 
 <a href="mailto:saikat.blast20@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 <a href="https://github.com/saikatghosh3">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 <a href="https://saikat-ghosh-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-00F5A0?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
 </a>
 
 </div>
 
 ---
 
-## 💡 Developer Mindset
-
-> "I don’t just build UI — I build experiences that feel fast, clean, and intuitive."
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" />
+### 💡 Developer Mindset
+
+*"I don't just build UI — I build experiences that feel fast, clean, and intuitive."*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Thanks_for_visiting-Let's_build_something_great-7B2FF7?style=for-the-badge&labelColor=0d1117" alt="footer" />
 
 </div>
