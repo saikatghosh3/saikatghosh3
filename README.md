@@ -40,15 +40,13 @@
 
 ## 🧠 &nbsp;About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-Frontend Developer from **Bangladesh 🇧🇩** focused on building **fast, scalable and visually clean** web applications using the modern JavaScript ecosystem.
+I'm a **Full Stack Developer from Bangladesh**, building fast, scalable web applications—from polished frontend interfaces to reliable backend services.
 
 ```js
 const saikat = {
-  role: "Frontend Developer",
+  role: "Full Stack Developer",
   stack: ["React", "Next.js", "TypeScript", "Tailwind"],
   state: "Redux Toolkit",
   backendAwareness: ["Node.js", "Express", "Laravel"],
@@ -57,20 +55,7 @@ const saikat = {
 };
 ```
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github.com/saikatghosh3.png" width="180" alt="Saikat Ghosh" />
-
-<br/>
-
-**Saikat Ghosh**
-
-*UI-Focused Frontend Engineer*
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -133,11 +118,12 @@ const saikat = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Advanced_React_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Next.js_Performance-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Redux_Toolkit_Scaling-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 <img src="https://img.shields.io/badge/TypeScript_Mastery-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_Design_Systems-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 </div>
 
@@ -187,7 +173,7 @@ const saikat = {
 
 ### 💡 Developer Mindset
 
-*"I don't just build UI — I build experiences that feel fast, clean, and intuitive."*
+*"From polished interfaces to reliable backends, I build full-stack experiences that are fast, scalable, and intuitive."*
 
 <br/>
 
