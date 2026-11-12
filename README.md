@@ -18,16 +18,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Frontend-Developer-00F5A0?style=for-the-badge&labelColor=0d1117" alt="role" />
-<img src="https://img.shields.io/badge/React-Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" alt="react" />
-<img src="https://img.shields.io/badge/Next.js-Engineer-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="nextjs" />
-<img src="https://img.shields.io/badge/Based_in-Bangladesh-7B2FF7?style=for-the-badge&labelColor=0d1117" alt="location" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=saikatghosh3&label=Profile%20Views&color=7B2FF7&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/saikatghosh3?label=Followers&style=for-the-badge&logo=github&color=00D9F5&labelColor=0d1117" alt="followers" />
-<img src="https://img.shields.io/badge/Status-Open_to_Work-00F5A0?style=for-the-badge&labelColor=0d1117" alt="status" />
+<img src="./bannerimage.png" width="100%" alt="Saikat Ghosh profile banner" />
 
 <br/><br/>
 
