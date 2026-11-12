@@ -44,18 +44,27 @@
 
 I'm a **Full Stack Developer from Bangladesh**, building fast, scalable web applications—from polished frontend interfaces to reliable backend services.
 
-```js
-const saikat = {
-  role: "Full Stack Developer",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind"],
-  state: "Redux Toolkit",
-  backendAwareness: ["Node.js", "Express", "Laravel"],
-  databases: ["MongoDB", "MySQL", "Firebase"],
-  mindset: "Ship fast. Keep it clean. Make it feel good.",
-};
-```
-
 </div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<pre><code>const saikat = {
+  role: "Full Stack Developer",
+  location: "Bangladesh",
+  mindset: "Ship fast. Keep it clean. Make it feel good.",
+};</code></pre>
+</td>
+<td width="50%" valign="top">
+<pre><code>const toolkit = {
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+  backend: ["Node.js", "Express", "Laravel"],
+  databases: ["MongoDB", "MySQL", "Firebase"],
+  levelingUp: ["Prisma", "Docker", "Redis"],
+};</code></pre>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -135,11 +144,11 @@ const saikat = {
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🛒 **E-Commerce Platform** | Full storefront with Admin Panel | `React` `Redux` `Tailwind` |
-| 🏥 **Healthcare Management** | Patient & appointment system | `React` `API` `Tailwind` |
-| ✈️ **Travel Booking UI** | Modern booking experience | `Next.js` `TypeScript` |
-| 💼 **Business Websites** | Portfolio & company sites | `Next.js` `Tailwind` |
-| 👨‍💻 **Personal Portfolio** | My developer showcase | `Next.js` `Vercel` |
+| 🛒 **E-Commerce Platform** | Full storefront with Admin Panel | `React` `Redux Toolkit` `Tailwind` `Node.js` `Express` `MongoDB` |
+| 🏥 **Healthcare Management** | Patient & appointment system | `React` `Node.js` `Express` `MySQL` |
+| ✈️ **Travel Booking UI** | Modern booking experience | `Next.js` `TypeScript` `Tailwind` |
+| 💼 **Business Websites** | Portfolio & company sites | `Next.js` `TypeScript` `Tailwind` |
+| 👨‍💻 **Personal Portfolio** | My developer showcase | `Next.js` `TypeScript` `Tailwind` `Vercel` |
 
 <br/>
 
