@@ -49,17 +49,42 @@ I'm a **Full Stack Developer from Bangladesh**, building fast, scalable web appl
 <table>
 <tr>
 <td width="50%" valign="top">
-<strong><code>saikat</code></strong><br/><br/>
-<code>role</code>: Full Stack Developer<br/>
-<code>location</code>: Bangladesh<br/>
-<code>mindset</code>: Ship fast. Keep it clean. Make it feel good.
+<pre><code>const saikat = {
+  role:
+    "Full Stack " +
+    "Developer",
+  location:
+    "Bangladesh",
+  mindset:
+    "Ship fast. " +
+    "Keep it clean. " +
+    "Make it feel good.",
+};</code></pre>
 </td>
 <td width="50%" valign="top">
-<strong><code>toolkit</code></strong><br/><br/>
-<code>frontend</code>: React, Next.js, TypeScript, Tailwind<br/>
-<code>backend</code>: Node.js, Express, Laravel<br/>
-<code>databases</code>: MongoDB, MySQL, Firebase<br/>
-<code>levelingUp</code>: Prisma, Docker, Redis
+<pre><code>const toolkit = {
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind",
+  ],
+  backend: [
+    "Node.js",
+    "Express",
+    "Laravel",
+  ],
+  databases: [
+    "MongoDB",
+    "MySQL",
+    "Firebase",
+  ],
+  levelingUp: [
+    "Prisma",
+    "Docker",
+    "Redis",
+  ],
+};</code></pre>
 </td>
 </tr>
 </table>
