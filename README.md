@@ -14,7 +14,7 @@
 
 <h1 align="center"> SAIKAT GHOSH </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F5A0&background=0D1117FF&center=true&vCenter=true&width=800&height=70&lines=Frontend+Developer;React.js+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+pixel-perfect+UI;Clean+code.+Clean+design.+Clean+experience." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F5A0&background=0D1117FF&center=true&vCenter=true&width=800&height=70&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+pixel-perfect+UI;Clean+code.+Clean+design.+Clean+experience." alt="Typing animation" />
 
 <br/>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-**Frontend Developer · Bangladesh**<br/>
+**Full Stack Developer · Bangladesh**<br/>
 Building fast, polished web experiences with **React, Next.js, TypeScript, and Tailwind**.<br/>
 Also working with **Node.js, Express, Laravel, MongoDB, MySQL, and Firebase**.<br/>
 Currently learning **Prisma, Docker, and Redis** · *Ship fast. Keep it clean.*
