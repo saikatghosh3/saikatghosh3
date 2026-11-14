@@ -42,53 +42,12 @@
 
 <div align="center">
 
-I'm a **Full Stack Developer from Bangladesh**, building fast, scalable web applications—from polished frontend interfaces to reliable backend services.
+**Frontend Developer · Bangladesh**<br/>
+Building fast, polished web experiences with **React, Next.js, TypeScript, and Tailwind**.<br/>
+Also working with **Node.js, Express, Laravel, MongoDB, MySQL, and Firebase**.<br/>
+Currently learning **Prisma, Docker, and Redis** · *Ship fast. Keep it clean.*
 
 </div>
-
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<pre><code>const saikat = {
-  role:
-    "Frontend " +
-    "Developer",
-  location:
-    "Bangladesh",
-  mindset:
-    "Ship fast. " +
-    "Keep it clean.",
-};</code></pre>
-</td>
-<td width="50%" valign="top">
-<pre><code>const toolkit = {
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind",
-  ],
-  backend: [
-    "Node.js",
-    "Express",
-    "Laravel",
-  ],
-  databases: [
-    "MongoDB",
-    "MySQL",
-    "Firebase",
-  ],
-  levelingUp: [
-    "Prisma",
-    "Docker",
-    "Redis",
-  ],
-};</code></pre>
-</td>
-</tr>
-</table>
-
 
 ---
 
